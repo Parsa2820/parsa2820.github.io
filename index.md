@@ -38,5 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Test LaTeX
 $$
-\underbrac{E}_{\text{Energy}} = \underbrace{m}_{\text{Mass}} \underbrace{c^2}_{\text{Light Speed Square}}
+\underbrace{E}_{\text{Energy}} = \underbrace{m}_{\text{Mass}} \underbrace{c^2}_{\text{Light Speed Square}}
 $$
