@@ -7,7 +7,7 @@ description: >
   NULL
 permalink: /:slug.html
 
-favicon: "logo.png"
+favicon: "https://avatars.githubusercontent.com/u/39219981"
 goat_counter: "https://2820.goatcounter.com/count"
 
 remote_theme: riggraz/no-style-please
