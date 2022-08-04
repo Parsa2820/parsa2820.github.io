@@ -1,0 +1,26 @@
+title: parsa2820
+author: Parsa Mohammadian
+email: parsa2820@gmail.com
+url: https://parsa2820.ir
+baseurl: ""
+description: >
+  NULL
+permalink: /:slug.html
+
+favicon: "logo.png"
+goat_counter: "https://2820.goatcounter.com/count"
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto"
+  back_home_text: ".."
+  date_format: "%Y-%m-%d"
+  show_description: false
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
