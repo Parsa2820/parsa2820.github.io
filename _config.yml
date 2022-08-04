@@ -8,7 +8,7 @@ description: >
 permalink: /:slug.html
 
 favicon: "https://avatars.githubusercontent.com/u/39219981"
-goat_counter: "https://2820.goatcounter.com/count"
+goat_counter: "2820"
 
 remote_theme: riggraz/no-style-please
 
