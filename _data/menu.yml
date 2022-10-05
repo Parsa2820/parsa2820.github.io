@@ -5,6 +5,8 @@ entries:
         url: /about
       - title: email
         url: mailto:parsa2820@gmail.com
+      - title: cv
+        url: https://raw.githubusercontent.com/Parsa2820/cv/master/main.pdf
       - title: github
         url: https://github.com/parsa2820/
       - title: linkedin
