@@ -17,7 +17,7 @@ Generally, Sharif AI Challenge is a competition in which high school and univers
 
 The technical team is divided into 4 sub-teams:
 
-- Web team
+- [Web team](aic-2022-web.html)
 - Game team
 - Graphics team
 - Infrastructure team
