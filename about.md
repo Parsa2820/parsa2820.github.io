@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-My name is **Parsa Mohammadian**. I studying B.Sc. in Computer Engineering at [the Sharif University of Technology](https://en.sharif.edu/). My research interests are:
+My name is **Parsa Mohammadian**. I am studying for a B.Sc. in Computer Engineering at [the Sharif University of Technology](https://en.sharif.edu/). My research interests are:
 
 - Distributed Systems
 - Computer Networks
@@ -13,7 +13,7 @@ My name is **Parsa Mohammadian**. I studying B.Sc. in Computer Engineering at [t
 
 If you are interested in my background, you can see my up-to-date CV on [Overleaf](https://www.overleaf.com/read/hsmhfcdxktbh).
 
-As a computer scientist, I always enjoy studying theoretical computer science, but I find myself more mighty in the practical aspects. I admire open-source mindset. So I prefer to use open-source alternatives, and open-source my projects whenever possible. My ultimate professional goal is to create something of value and better the future of mankind.
+As a computer scientist, I have always enjoyed studying theoretical computer science, but I find myself more mighty in the practical aspects. I admire the open-source mindset. I prefer to use open-source alternatives and open-source my projects whenever possible. My ultimate professional goal is to create something of value and better the future of mankind.
 
 ## On-Going Research Projects
 
@@ -29,7 +29,7 @@ WIDESim is a toolkit for simulating resource management techniques of scientific
 >
 >**Supervisor: Dr. Mohsen Ansari**
 
-The fog computing environment is a distributed system that consists of a large number of heterogeneous devices. Scheduling resources in the fog computing environment is a challenging problem. Metaheuristic algorithms on the other hand are a class of algorithms that can be used to find near-optimal solutions for optimization problems in a reasonable amount of time. That makes them a perfect candidate for solving the fog scheduling problem. In this project, we are trying to compare the performance metaheuristic algorithms (specifically [Artificial Gorilla Troops Optimization]() and [Reptile Search Algorithm]()) with the state-of-the-art algorithms in the fog scheduling problem using the [CloudSim]() simulator.
+The fog computing environment is a distributed system that consists of a large number of heterogeneous devices. Scheduling resources in the fog computing environment is a challenging problem. Metaheuristic algorithms, on the other hand, can be used to find near-optimal solutions for optimization problems in a reasonable amount of time. That makes them a perfect candidate for solving the fog scheduling problem. In this project, we are trying to compare the performance metaheuristic algorithms (specifically [Artificial Gorilla Troops Optimization]() and [Reptile Search Algorithm]()) with the state-of-the-art algorithms in the fog scheduling problem using the [CloudSim]() simulator.
 
 ## Publications
 
