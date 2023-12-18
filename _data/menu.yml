@@ -12,12 +12,13 @@ entries:
       - title: linkedin
         url: https://www.linkedin.com/in/parsa2820/
 
-  - title: posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+  - title: blog posts
+    url: /archive
+    # post_list:
+    #   limit: 5
+    #   show_more: true
+    #   show_more_text: See archive...
+    #   show_more_url: archive.html
 
   - title: rss
     url: feed.xml
