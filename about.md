@@ -7,7 +7,7 @@ title: About
   <img src="assets/about/profile.jpg" alt="Parsa Mohammadian" style="border-radius: 50%; width: 30%; height: auto; aspect-ratio: 1 / 1; object-fit: contain; background-color: white; padding: 5px;" />
 </center>
 
-My name is **Parsa Mohammadian**. I am recently got my B.Sc. in Computer Engineering at [the Sharif University of Technology](https://en.sharif.edu/). My research interests are:
+My name is **Parsa Mohammadian**. I recently got my B.Sc. in Computer Engineering from [the Sharif University of Technology](https://en.sharif.edu/). My research interests are:
 
 - Distributed Systems
 - Computer Networks
