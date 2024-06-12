@@ -7,7 +7,7 @@ title: About
   <img src="assets/about/profile.jpg" alt="Parsa Mohammadian" style="border-radius: 50%; width: 30%; height: auto; aspect-ratio: 1 / 1; object-fit: contain; background-color: white; padding: 5px;" />
 </center>
 
-My name is **Parsa Mohammadian**. I am studying for a B.Sc. in Computer Engineering at [the Sharif University of Technology](https://en.sharif.edu/). My research interests are:
+My name is **Parsa Mohammadian**. I am recently got my B.Sc. in Computer Engineering at [the Sharif University of Technology](https://en.sharif.edu/). My research interests are:
 
 - Distributed Systems
 - Computer Networks
@@ -21,14 +21,14 @@ As a computer scientist, I have always enjoyed studying theoretical computer sci
 
 ## On-Going Research Projects
 
-### WIDESim (B.Sc. Thesis)
+### ~~WIDESim (B.Sc. Thesis)~~
 **Distributed and Multi-agent Systems Laboratory, Sharif University of Technology**
 
 **Supervisor: Dr. Mohammad Izadi, Dr. Hajar (Maryam) Siar**
 
 WIDESim is a toolkit for simulating resource management techniques of scientific Workflows in Distributed Environments with graph topology. It is written in Java based on the [CloudSim](https://github.com/Cloudslab/cloudsim) simulator. The development is finished, and we are currently working on the paper.
 
-### Metaheuristic Fog Scheduling
+### ~~Metaheuristic Fog Scheduling~~s
 **Cyber-Physical Systems Laboratory, Sharif University of Technology**
 
 **Supervisor: Dr. Mohsen Ansari**
@@ -49,4 +49,4 @@ The fog computing environment is a distributed system that consists of a large n
 
 As a human being, I am always curious about the world around me. I love reading about history and philosophy. I think being born in Iran, a country with a rich history and literature, was a great gift for me. I also love bodybuilding, running, and chess.
 
-I love talking to people. Feel free to message me if you want to chat about life, university, computers, or anything else. You can find me by the username `parsa2820` everywhere I go.
+I love talking to people. Feel free to message me if you want to chat about anything. You can find me by the username `parsa2820` everywhere I go.
