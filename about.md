@@ -7,7 +7,7 @@ title: About
   <img src="assets/about/profile.jpg" alt="Parsa Mohammadian" style="border-radius: 50%; width: 30%; height: auto; aspect-ratio: 1 / 1; object-fit: contain; background-color: white; padding: 5px;" />
 </center>
 
-My name is **Parsa Mohammadian**. I am recently got my B.Sc. in Computer Engineering at [the Sharif University of Technology](https://en.sharif.edu/). My research interests are:
+My name is **Parsa Mohammadian**. I recently got my B.Sc. in Computer Engineering at [the Sharif University of Technology](https://en.sharif.edu/). My research interests are:
 
 - Distributed Systems
 - Computer Networks
@@ -28,7 +28,7 @@ As a computer scientist, I have always enjoyed studying theoretical computer sci
 
 WIDESim is a toolkit for simulating resource management techniques of scientific Workflows in Distributed Environments with graph topology. It is written in Java based on the [CloudSim](https://github.com/Cloudslab/cloudsim) simulator. The development is finished, and we are currently working on the paper.
 
-### ~~Metaheuristic Fog Scheduling~~s
+### ~~Metaheuristic Fog Scheduling~~
 **Cyber-Physical Systems Laboratory, Sharif University of Technology**
 
 **Supervisor: Dr. Mohsen Ansari**
