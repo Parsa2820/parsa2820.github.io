@@ -37,7 +37,7 @@ The fog computing environment is a distributed system that consists of a large n
 
 ## Publications
 
-- [**WIDESim: A toolkit for simulating resource management techniques of scientific Workflows In Distributed Environments with graph topology**](https://arxiv.org/abs/2206.03538)
+- [**WIDESim: A toolkit for simulating resource management techniques of scientific Workflows In Distributed Environments with graph topology**](https://link.springer.com/article/10.1007/s10723-024-09778-y)
 
   Mohammad Amin Rayej, Hajar Siar, Ahmadreza Hamzei, Mohammad Sadegh Majidi Yazdi, Parsa Mohammadian, Mohammad Izadi
 
