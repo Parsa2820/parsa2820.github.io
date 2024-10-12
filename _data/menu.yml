@@ -15,7 +15,7 @@ entries:
   - title: my public keys
     url: /keys
     entries:
-      - title: `curl -sL parsa2820.ir/keys | grep -o 'ssh.*$'`
+      - title: "curl -sL parsa2820.ir/keys | grep -o 'ssh.*$'"
 
   - title: blog posts
     url: /archive
