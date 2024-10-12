@@ -12,6 +12,9 @@ entries:
       - title: linkedin
         url: https://www.linkedin.com/in/parsa2820/
 
+  - title: my public keys
+    url: /keys
+
   - title: blog posts
     url: /archive
     post_list:
