@@ -3,6 +3,11 @@ layout: page
 title: Words of Wisdom
 ---
 
+> "Solitude requires you to move past reacting to information created by other people and focus instead on your own thoughts and experiences—wherever you happen to be."
+> &mdash; Cal Newport, Digital Minimalism
+
+---
+
 > "Turing Machines can compute any computable function.
 > Turing machines are incredibly more powerful than Finite Automata.
 > Yet the only difference between a FA and a TM is that 
