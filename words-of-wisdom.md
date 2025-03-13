@@ -3,6 +3,11 @@ layout: page
 title: Words of Wisdom
 ---
 
+> "If you wish to make an apple pie from scratch, you must first invent the universe."
+> &mdash; Carl Sagan, Cosmos
+
+---
+
 > "Solitude requires you to move past reacting to information created by other people and focus instead on your own thoughts and experiences—wherever you happen to be."
 > &mdash; Cal Newport, Digital Minimalism
 
