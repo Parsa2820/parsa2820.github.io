@@ -3,6 +3,11 @@ layout: page
 title: Words of Wisdom
 ---
 
+> "The farther backward you can look, the farther forward you can see."
+> &mdash; Winston Churchill
+
+---
+
 > "If you wish to make an apple pie from scratch, you must first invent the universe."
 > &mdash; Carl Sagan, Cosmos
 
